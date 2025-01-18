@@ -1,4 +1,4 @@
-# Semantic Search HackaThon
+# Semantotube
 
 SemantoTube makes it easy to find the information you need in YouTube video transcripts, with advanced semantic search capabilities.
 
