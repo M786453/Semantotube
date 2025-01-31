@@ -1,6 +1,6 @@
 # Semantotube
 
-SemantoTube makes it easy to find the information you need in YouTube video transcripts, with advanced semantic search capabilities.
+SemantoTube makes it easy to find the information you need in YouTube videos, with advanced semantic search capabilities.
 
 
 ## Purpose
